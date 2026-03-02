@@ -1,5 +1,7 @@
 # 📦 E-Commerce Shipping Charge Estimator
 
+🔗 **GitHub Repository:** [https://github.com/Agaditya1000/E-Commerce-Shipping-Charge-Estimator](https://github.com/Agaditya1000/E-Commerce-Shipping-Charge-Estimator)
+
 A robust backend application built with **Node.js**, **Express 5**, and **TypeScript** to calculate shipping charges for a B2B e-commerce marketplace (like Kirana stores ordering from sellers). It dynamically determines the most efficient warehouse for a seller drop-off and computes the final shipping charges based on item weight, geographic distance, and transport heuristics.
 
 ---
@@ -86,7 +88,7 @@ E-Commerce Shipping Charge Estimator/
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Agaditya1000/E-Commerce-Shipping-Charge-Estimator.git
    cd E-Commerce-Shipping-Charge-Estimator
    ```
 
