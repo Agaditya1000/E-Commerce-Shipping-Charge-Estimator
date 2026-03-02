@@ -289,3 +289,10 @@ The `npm run seed` command populates the following data:
 ## 📄 License
 
 ISC
+
+---
+
+## 👨‍💻 Author
+
+**Aditya Kumar Gupta**
+📧 [agaditya1000@gmail.com](mailto:agaditya1000@gmail.com)
